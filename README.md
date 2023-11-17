@@ -1,4 +1,4 @@
-#gs2utils
+# gs2utils
 Useful scripts for working with the gyrokinetic code GS2. 
 ## Installation
 
